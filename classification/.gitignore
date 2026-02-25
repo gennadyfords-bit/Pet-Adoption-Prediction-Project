@@ -1,0 +1,5 @@
+catboost_info/
+mlruns/
+*.db
+.ipynb_checkpoints/
+__pycache__/
