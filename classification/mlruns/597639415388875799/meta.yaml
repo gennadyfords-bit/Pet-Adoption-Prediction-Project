@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/gennadyn/Pet-Adoption-Prediction-Project/classification/mlruns/597639415388875799
+creation_time: 1772034406441
+experiment_id: '597639415388875799'
+last_update_time: 1772034406441
+lifecycle_stage: active
+name: Pet-Adoption-XGBoost

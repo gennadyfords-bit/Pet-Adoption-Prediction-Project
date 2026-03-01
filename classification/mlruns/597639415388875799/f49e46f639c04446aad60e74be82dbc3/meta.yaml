@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/gennadyn/Pet-Adoption-Prediction-Project/classification/mlruns/597639415388875799/f49e46f639c04446aad60e74be82dbc3/artifacts
+end_time: 1772036440174
+entry_point_name: ''
+experiment_id: '597639415388875799'
+lifecycle_stage: active
+run_id: f49e46f639c04446aad60e74be82dbc3
+run_name: xgb_grid_search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772036435048
+status: 3
+tags: []
+user_id: gennadyn

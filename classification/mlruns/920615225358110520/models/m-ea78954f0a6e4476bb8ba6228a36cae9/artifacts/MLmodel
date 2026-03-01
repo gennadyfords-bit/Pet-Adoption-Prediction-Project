@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/gennadyn/Pet-Adoption-Prediction-Project/classification/mlruns/920615225358110520/models/m-ea78954f0a6e4476bb8ba6228a36cae9/artifacts
+flavors:
+  catboost:
+    catboost_version: 1.2.5
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.9.10
+mlflow_version: 3.1.4
+model_id: m-ea78954f0a6e4476bb8ba6228a36cae9
+model_size_bytes: 635736
+model_uuid: m-ea78954f0a6e4476bb8ba6228a36cae9
+prompts: null
+run_id: 6ff7ce5005974c92a04fc83c9a9a7d10
+utc_time_created: '2026-02-25 17:22:33.306720'

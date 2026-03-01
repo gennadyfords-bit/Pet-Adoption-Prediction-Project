@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/gennadyn/Pet-Adoption-Prediction-Project/classification/mlruns/597639415388875799/models/m-dc33ce10c2f54890b27c2cf72b03fdc5/artifacts
+creation_timestamp: 1772037768731
+experiment_id: '597639415388875799'
+last_updated_timestamp: 1772037772774
+model_id: m-dc33ce10c2f54890b27c2cf72b03fdc5
+model_type: null
+name: model
+source_run_id: 825e3b5a8af64e53ab398265a84b92c7
+status: 2
+status_message: null

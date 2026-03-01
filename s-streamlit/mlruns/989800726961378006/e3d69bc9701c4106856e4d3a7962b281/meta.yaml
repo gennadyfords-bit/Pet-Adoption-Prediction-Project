@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gennadyn/Pet-Adoption-Prediction-Project/s-streamlit/mlruns/989800726961378006/e3d69bc9701c4106856e4d3a7962b281/artifacts
+end_time: 1772349032247
+entry_point_name: ''
+experiment_id: '989800726961378006'
+lifecycle_stage: active
+run_id: e3d69bc9701c4106856e4d3a7962b281
+run_name: rf_best_from_sqlite
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772349023740
+status: 3
+tags: []
+user_id: gennadyn
