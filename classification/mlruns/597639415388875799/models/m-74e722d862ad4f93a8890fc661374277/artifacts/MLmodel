@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/gennadyn/Pet-Adoption-Prediction-Project/classification/mlruns/597639415388875799/models/m-74e722d862ad4f93a8890fc661374277/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.10
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.1.2
+mlflow_version: 3.1.4
+model_id: m-74e722d862ad4f93a8890fc661374277
+model_size_bytes: 582523
+model_uuid: m-74e722d862ad4f93a8890fc661374277
+prompts: null
+run_id: 3f379dd4b88c413c92470666a6b60af2
+utc_time_created: '2026-02-25 16:04:04.648756'

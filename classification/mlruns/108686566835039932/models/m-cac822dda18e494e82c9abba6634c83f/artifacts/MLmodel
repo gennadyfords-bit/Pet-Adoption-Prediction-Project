@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/gennadyn/Pet-Adoption-Prediction-Project/classification/mlruns/108686566835039932/models/m-cac822dda18e494e82c9abba6634c83f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-cac822dda18e494e82c9abba6634c83f
+model_size_bytes: 65248027
+model_uuid: m-cac822dda18e494e82c9abba6634c83f
+prompts: null
+run_id: b7b88e25b2fe473cb5386afc7b19c9ea
+utc_time_created: '2026-02-25 16:49:16.853064'
